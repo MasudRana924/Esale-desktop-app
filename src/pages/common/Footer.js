@@ -75,7 +75,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <p className="text-white text-sm font-semibold nav-text">&#169; copyright deserve to পড়াও</p>
+            <p className="text-white text-sm font-semibold nav-text">&#169; copyright deserve to E-sale</p>
         </main>
     );
 };
