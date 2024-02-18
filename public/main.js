@@ -12,8 +12,8 @@ function createWindow() {
     },
   });
 
-  mainWindow.loadURL('http://localhost:3000/');
-  // mainWindow.loadURL('https://esale-desktop-app.vercel.app/');
+  // mainWindow.loadURL('http://localhost:3000/');
+  mainWindow.loadURL('https://esale-desktop-app.vercel.app/');
 
   mainWindow.on('closed', () => {
     mainWindow = null;
