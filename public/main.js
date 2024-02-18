@@ -13,7 +13,7 @@ function createWindow() {
   });
 
   mainWindow.loadURL('http://localhost:3000/');
-  // mainWindow.loadURL('https://trust-pay-team.vercel.app/account/login');
+  // mainWindow.loadURL('https://esale-desktop-app.vercel.app/');
 
   mainWindow.on('closed', () => {
     mainWindow = null;
